@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d9d2d0-00c5-4ea4-a7bf-1562b43c69ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81A2A079-7F3C-43B2-AABD-7604740BCD48/6d/da0665c0/AnimatorStateInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/ScoreView.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Scripts/DefaultInitializationErrorHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/SongStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Shaders/FadeShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/Fadeable.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Shaders/DepthMask.shader" />
+        <option value="$PROJECT_DIR$/Assets/Enable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/FadeStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/ActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/Bot.cs" />
+        <option value="$PROJECT_DIR$/Assets/vakuor/Scripts/ActionStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Copy/Scripts/Views/ScoreView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Copy/Scripts/Card.cs" />
+        <option value="$PROJECT_DIR$/Assets/Copy/Scripts/LevelMenuViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Copy/Scripts/Views/CardsStackView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Views/ScoreView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xRoxC04WOCHuhMZaNoVu0Q5cWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d9d2d0-00c5-4ea4-a7bf-1562b43c69ae" name="Default Changelist" comment="" />
+      <created>1630327509870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630327509870</updated>
+      <workItem from="1630327513652" duration="11696000" />
+      <workItem from="1630581157700" duration="4221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="256" key="RiderGenerateDialog" timestamp="1630453892920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="569" y="256" key="RiderGenerateDialog/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1630453892920" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1630455845593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1630455845593" />
+  </component>
+</project>

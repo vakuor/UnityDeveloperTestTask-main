@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b837b083becb846299e0daec93651042, type: 3}
+  m_Name: 3Solar System
+  m_EditorClassIdentifier: 
+  Name: 3Solar System
+  Disabled: 0
+  SceneName: Solar System
+  Background: {fileID: 21300000, guid: 1fa4d1ce5bed94f8a92ef10252ffc063, type: 3}
+  GalaxyImage: {fileID: 21300000, guid: 23a50c676647c4b86aaed14b272e8fa8, type: 3}
+  MainImage: {fileID: 21300000, guid: ddbd1e3d9d7104c4d94b253fce9fb12d, type: 3}
+  DisableImage: {fileID: 21300000, guid: 230d9e4548a4f4d08afec448a0b438a7, type: 3}
+  ProgressData:
+    CurrentProgress: 5
+    Total: 7
+    Status: 2
